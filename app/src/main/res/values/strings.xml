@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BnetAppTest</string>
+    <string name="load_data">Добавить запись</string>
+    <string name="save_button">Сохранить</string>
+    <string name="cancel_button">Отменить</string>
+    <string name="enter_data">Введите содержимое записи…</string>
+    <string name="back_button">Назад</string>
+    <string name="da">da:</string>
+    <string name="dm">dm:</string>
+</resources>
